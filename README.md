@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/JonathanAndrews/GoogleBooksApp.svg?branch=master)](https://travis-ci.com/JonathanAndrews/GoogleBooksApp)
-[![Maintainability](https://api.codeclimate.com/v1/badges/aa40fab363db336432d7/maintainability)](https://codeclimate.com/github/JonathanAndrews/GoogleBooksApp/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/aa40fab363db336432d7/test_coverage)](https://codeclimate.com/github/JonathanAndrews/GoogleBooksApp/test_coverage)
+[![Build Status](https://travis-ci.com/JonathanAndrews/GoogleBooksAPIApp.svg?branch=master)](https://travis-ci.com/JonathanAndrews/GoogleBooksAPIApp)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d2df222bc35dddaa5140/test_coverage)](https://codeclimate.com/github/JonathanAndrews/GoogleBooksAPIApp/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d2df222bc35dddaa5140/maintainability)](https://codeclimate.com/github/JonathanAndrews/GoogleBooksAPIApp/maintainability)
 
 
 
